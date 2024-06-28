@@ -19,3 +19,7 @@ git checkout code_1/master
 git checkout code_2/master
 ```
 
+Los profesores aportaron un archivo de ayuda para comprobar que los datos fuesen correctos.
+Este también servía en caso de haberse atascado en hitos previos, permitía hacer el Hito 3 a partir de esos datos.
+Este archivo se encuentra en [data/Graphs_research_groups.mat](data/Graphs_research_groups.mat).
+
